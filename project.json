@@ -1,19 +1,15 @@
 {
-  "name": "DemoGitHub",
-  "projectId": "392a8f70-ea0b-4f2f-b038-9bd1ee7c25d1",
-  "description": "Blank Process",
+  "name": "Lists_and_Dictionaries_Demo",
+  "projectId": "c44cef06-65d4-47ca-abd3-f7b010ffa4b7",
+  "description": "Using Dictionaries and Lists an item is added to the list of a dictionary-key pair, and an item is removed from a dictionary-key pair",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.24.4]",
-    "UiPath.Mail.Activities": "[1.24.16]",
-    "UiPath.System.Activities": "[24.10.8]",
-    "UiPath.Testing.Activities": "[24.10.4]",
-    "UiPath.UIAutomation.Activities": "[24.10.14]"
+    "UiPath.System.Activities": "[22.10.4]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "24.10.18.0",
+  "studioVersion": "22.10.3.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -44,13 +40,13 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "saveToCloud": false
+    "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "bf48a6ee-22d5-4ca1-8614-ab7f4d3ce64c",
+      "uniqueId": "9bc038e3-d0fd-4a6f-9b9a-5bbfa66d0aca",
       "input": [],
       "output": []
     }
